@@ -1,0 +1,5994 @@
+fileFormatVersion: 2
+guid: ce701e40efcd34a439f1470567e37155
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmCrop_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd2f1205a844d4439a8657b49d1c89e
+      internalID: 17106729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999ddffca1d059c4d8d4a4a5651ec476
+      internalID: 25871888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5439465422152024fbb72690885e1501
+      internalID: 277732112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b64c94e85cba284d8ec2050d51aff03
+      internalID: -1286939916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e08c2e5889f6a4cbebbf81a8056ab7
+      internalID: -1309794138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb61543a3b5fbac41ba5b604899af381
+      internalID: 1139107128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855bb61dd1172414abb91ad8c8ddae9e
+      internalID: -1548082861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f719744d41004098ae7c236417df6
+      internalID: -1691100413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90514667f014b604db5b0e707665a575
+      internalID: 1460422692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d734bc25031544740aa62eddec982b0b
+      internalID: -125204929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa824ba32220fab4c93d3efdd042335b
+      internalID: -1402530975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f025e538cf9564ea7c1cffdbf021cd
+      internalID: -1965094406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd732e2d2b058d540b168d34a5900b06
+      internalID: 1503364964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2517f13767ec5c94481d70dfa73feecf
+      internalID: -661831566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e01cbbd813475742b2e760a0e36269e
+      internalID: 822919551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c7929d951e08f46bed607a1dcb1fe4
+      internalID: 1118963902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d79d75853160438f3cbe4e7dc58e0
+      internalID: -1569892330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 607
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222d57e827d7afe4ea9dba1871c5a075
+      internalID: -116850727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdab311acf603b478b3da50e7ed73f1
+      internalID: -1379946929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e93935cb112ab4f9ba1fec2cdebcc4
+      internalID: 854965811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45cd9cb2fba5e74091d64a32514c5f2
+      internalID: -1663331534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d9b1dd9297b92438def1deae869ca0
+      internalID: -279182426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa72cc284bcf264b8978e2a9e74c8cd
+      internalID: 1409929113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a2a9ec0a490847934ef740e101493
+      internalID: 12390401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf185a001e10104d9a2dfbf01d8eb4a
+      internalID: 1021314668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caf47d75d376dc42b40eb822c71b1a3
+      internalID: -555153994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a1c8c48fc9f3e4487c00c5b0653a7c
+      internalID: -55182918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36046f474fc4c154ba3c5f511501fb88
+      internalID: 1208850077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a065f6d03f989e41b46bcf525ef46bc
+      internalID: -1740158270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f081ec999e58324bb956b642a50c029
+      internalID: -501966120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2689d1cb3dff7e46bff192ce735f430
+      internalID: -616823886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e97eaa9b3b584aab7ceb7fc568907
+      internalID: 186152616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce2ec6913a08c54ba758bdf1ba8e983
+      internalID: 1049592467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed244eeaf36987c4cb63419bd9530875
+      internalID: -605143464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8573001d7b99cf848a9290f8a25822a7
+      internalID: 1155575301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca50d6eabb5c0c41a7007cb2924a46c
+      internalID: -1198541594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_36
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ee119598977da49818b276b1fe3a1c
+      internalID: 1015895865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef5853a22d94dc4db39580f6bca3a51
+      internalID: 1963212261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc660d25b6c0cc41b1eca842516de18
+      internalID: 1397411700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea068926b69c54a896b67eac20538f
+      internalID: -923220057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942bad9d4e1ae48419c5698e1900c28f
+      internalID: -1642767475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41baa0bfbac48fe4ea2ef7f93c59f808
+      internalID: -643851990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a510802133e5c5142be644e876f22dba
+      internalID: 559852148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e2875303f89da41970a783f88de99e
+      internalID: 1853341927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b914dec911a884292a31b587bc672c
+      internalID: -284961436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620aee8c35becb3419971009dcb1b2b6
+      internalID: -974427611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8fdc639edaf51449a80475a0775e71
+      internalID: -464419184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf21a59bd9a89f4c8d7ac96a00e7c3b
+      internalID: 1989255582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_48
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79460593fb6ff9a45a592ac116727ef9
+      internalID: 975244364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabf8272390e7054ea3073fa83c88049
+      internalID: 887455375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4cfcc76fcad06429cce9c2fd964de3
+      internalID: 1654610247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_51
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b9cde92d20dd4a86d5e4bf6fe1c01
+      internalID: 291094017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928fabd8a02d1524aa3d1c4734ce4dfb
+      internalID: -645562330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa95b27124702a43bfaa5d463dbee3d
+      internalID: -1230492866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e771e04c48bd6024e976302e83cd8012
+      internalID: -1481935444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 543
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89bb40972cb5e478e08fbe2b869851
+      internalID: 1968589273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ce530e96d1d841b3cfb9b535fb558
+      internalID: -1842769717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b89f2a18af222498c392c9203fc3bd
+      internalID: -2047095326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eb0f22748ea9c45a065d6a8dbcc70d
+      internalID: 62437667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd27cd8be898de4f8a9f6fb6a2d2912
+      internalID: 2075641602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1315f1ff974d1f46a05ca6200c7146f
+      internalID: 1498985863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861bef0d3baeee742bd1846ae83d34f5
+      internalID: 458419495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0acbfd076042dc45b6b05279bc431d5
+      internalID: 1748649265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_63
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6629a77b301457a42946b74a5a7105a7
+      internalID: -1023343430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_64
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eade1f8411b6cc1438c0a4b3eec05011
+      internalID: 1641103062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_65
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7719fa348228346a54174dab82ab64
+      internalID: -1781506277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_66
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b45245e73267884a834fe3855400ca8
+      internalID: -1608601609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_67
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e34171ec9dc34e8b4c61086d778ac
+      internalID: -1385079880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a570e7f4f04c3834ab646394b0e65803
+      internalID: 1859285868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bfb9217f91afd409554927f518e679
+      internalID: 1341758491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_70
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626a63e9965e4834aa6be4c7415be3fa
+      internalID: 1686185129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_71
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f3946a5e8bb6540ad942b57299807f
+      internalID: -980621959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_72
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9d16ccb6f97a34884b102ca44ff2cb
+      internalID: 1708053893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_73
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38d762df7b787a47977bcbd22fdcab1
+      internalID: 1346056196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 511
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14794155b2ef9143b8acbf00f29643c
+      internalID: 662895524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_75
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde34a644d44cd4abf41c02763da1cb
+      internalID: -1670067814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58bc4dd8190b7641b50a2a625d3a5ee
+      internalID: -1845614781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_77
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b5b902f7aec704cbd6ba5398964322
+      internalID: -950282937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d1a8607d3acd94e8b960b7810c6f2f
+      internalID: 1737590473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac9666821dd0d84489060e73849fc28
+      internalID: 2104241566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a65656feceb4684ab70a3c02dc15052
+      internalID: -1804306851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86796c1c5f0e2f54cb1678534ad47341
+      internalID: 1350021701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_82
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b89b8e86f9bebe4aa90e4ebe9030c7a
+      internalID: -1491737373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_83
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db42a94b4a89cdf4ba960e2c6b3697d5
+      internalID: -2014433092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_84
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70047001cdfda79418b935a5ae4e70e8
+      internalID: -852955272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_85
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129181acd66a5634a9075ba466b52974
+      internalID: 2001538164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_86
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0944400a93f1ebf4f9d31406542d5c5c
+      internalID: -2020177017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221e0770baf91a44a29a3e016fb45d6
+      internalID: 1826272910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_88
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5639dbb556dbafc48a956329deae9d62
+      internalID: 675237953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_89
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08feb87b9ee4c548b351d1d72b28f6a
+      internalID: 1687494759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_90
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a0621c0e0d1d843b5b009e2589f5ba
+      internalID: -1625171724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_91
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c8f3f98038d2f408d87288cb8becae
+      internalID: -2047227973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_92
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a43876240c2ea44183b5b10aa57ee8e
+      internalID: 1276307680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_93
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6668dd84bd30aee4b9b12467e583ae6f
+      internalID: -769204932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_94
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f48114eab08e5488e6bd04cad77d37
+      internalID: 1503599814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_95
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 479
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329b5cdab76bb6549907738d15e01576
+      internalID: 857328448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a328d5043d94478f06aa31639c9d6
+      internalID: -1012508065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f2969acfd86d42a52752f94a66301
+      internalID: 1695364828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_98
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c024c0c6abbe646ad91be0c579e06c
+      internalID: 1336450754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_99
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7b60b54cd8f04d9463ef4a2de341c
+      internalID: 768609530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_100
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edb74852fc885f458b9928fd95ee167
+      internalID: 992641458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35faf994455a066488eb8ae2b29dbda4
+      internalID: 1791243496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_102
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee1a0cc882e2a488afcb2f0360258e
+      internalID: -909810024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_103
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b7d0ab325025d499bd04de986e7b45
+      internalID: -726471979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_104
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65d0f81fbf77094c876a780ab1c2442
+      internalID: 83520383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_105
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371265fa7f296db4394787481777c646
+      internalID: -1912811034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_106
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caefbd99c936494c9bcdf64f4b403eb
+      internalID: 939662222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_107
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653dc4f0ec63f0c4dbf1a16a2ac4b11d
+      internalID: 2145917227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_108
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d351ef11d239047835e703cef6aa4f
+      internalID: -442127073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7638f4acd3bb43b10c6d52814411b
+      internalID: -78724795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_110
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db12e49de8e429a46ace36a642bf3162
+      internalID: 810530701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_111
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b5b5fa87459cb47a1e0e0212113d5e
+      internalID: 1814886369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_112
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7f960ea6d6e2e4f8fea293849b8262
+      internalID: -763348048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_113
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5f32ee788daf94e94b860692cc2641
+      internalID: 688333286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_114
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f920f2ae2be1374a820fef3f9b088fc
+      internalID: -1879657831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a227fa4c3a78bad419810f524c0e9f17
+      internalID: 917134632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_116
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8988d061fc3fa4647872f0a2d0d3d5cf
+      internalID: 1977956497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_117
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c2078a56f9a934e9152fbd4be7b949
+      internalID: 225874929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_118
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6740197610b5b941aab326c51e96b17
+      internalID: -8770911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_119
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9afd7c4f665f419d4f77930c446ca
+      internalID: 593204421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_120
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bed6d6c360833741b6e5a39bfaf9e99
+      internalID: 907017992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_121
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 415
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca75e8957d71c45459a239e02df8702e
+      internalID: -1122868768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_122
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74961c75784dc044bad1b536ce7f6294
+      internalID: 1591414007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_123
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102995f51a51498469185f44bc664f48
+      internalID: 1980944489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_124
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b0f5023577d374d8686984554b8c8f
+      internalID: -1730649895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_125
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04ee43f96b27a49aaf69559fba9509
+      internalID: 402108725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_126
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42fd2fce9887434a9e32cfa4e926674
+      internalID: -1648233281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_127
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae34483cf3504b448ac57e74db1421d5
+      internalID: -566990368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_128
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd301d1ee66b094685205c9c4c814c8
+      internalID: 1799352181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_129
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a935b886a7730fc46b822c6421328fc5
+      internalID: -1836987084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_130
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d1551968ba3814690422eec87ab237
+      internalID: 256908136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_131
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3420531f36d73048ab27c97a82220be
+      internalID: 1371391150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_132
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 415
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468a9aa16d00cb4eb6c1084bbc46d55
+      internalID: -1383225534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_133
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7653335a5ebc6d04db9486be49de2a34
+      internalID: 707317291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_134
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b71131c28f4bf4bb7f1f589c62f1cc
+      internalID: -934993569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_135
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe2d6de218ac25428400574b99153b9
+      internalID: 815885368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_136
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e67f6c9b0f7ce24f920e74d853c270f
+      internalID: 1828607428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_137
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27e62ff5245d4f4d99d96f47c45afde
+      internalID: 543649609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_138
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1d6347f1380684ab868b2c57bd1a81
+      internalID: 206416511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_139
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc48cc405f02a74eaf57a3e406db5d3
+      internalID: -1358275091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_140
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a877762fbbb4d44b949010f625458f
+      internalID: -1763663750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_141
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50590eb5a9cda7a48acb8b5b41f3b54f
+      internalID: -255357985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_142
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5adee03e56c0046aa437bdddb40b64
+      internalID: -1633899154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_143
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bd6868771100f4785c4eabf2503916
+      internalID: 83699578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_144
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f8f92246eda7428e31fd6894d30ad
+      internalID: 950196843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_145
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517de67a5fdcc69408fabf2e0b0aa1aa
+      internalID: 1753551668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_146
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f14489fec55f4987862b93c7cce1c
+      internalID: -364699032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_147
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0118cb612790a4243a3dcbff73c4ec19
+      internalID: 1193528690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_148
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3d30a2c5047e946bf41ffb3fb7fd35
+      internalID: 1202051300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_149
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791eb732e81a9264ea35b9b24558f4cc
+      internalID: -1691691561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_150
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db274539561c9458c53031b4c00d09
+      internalID: -281950004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_151
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c84beb062f2acf40825f3e1a6e9ddd4
+      internalID: 1672601916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_152
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88753cae885b9f040987d1bf542a212e
+      internalID: -763509771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_153
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86442de63cef93242a33668684af72c2
+      internalID: -236827519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_154
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a7be89aef4a74aa8b8aeacb8355d6
+      internalID: 35004728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_155
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59a2cdb4ab9ff488d2696e5d3ac00e
+      internalID: -400180397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_156
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daceaeb56d7f6145a1e55ee42348e5e
+      internalID: -1215185239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_157
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaec49fcb3e7169499537ed119fb9a57
+      internalID: 1763818941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_158
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac7591c46c83e42b1542ed2392ee95
+      internalID: 179892258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_159
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294ed441ccda6f4191f802d2889701b
+      internalID: 1149733465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a9e927a99a3db4b9f47d3660a0952d
+      internalID: -459709370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_161
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f252909d06db31347b37446471a9b929
+      internalID: -1653870265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_162
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a7a5fc12a9c484487dcb73917195ad
+      internalID: -256967294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_163
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1dd4ee44c6c9d4686ca74967d260de
+      internalID: 1042665945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_164
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3da0b592b963b4ea361a0a58505c03
+      internalID: -1146149635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_165
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a767bdbd26f4544c8cb88c9a5d0ec2b
+      internalID: 981152972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_166
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecdb1761afb3c04ea7ca608163e4c98
+      internalID: -1703299226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_167
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1fc73c4c3b684091ed34b292f0531
+      internalID: -1032419545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_168
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa013589b95b02409abf823a75ce818
+      internalID: 1006350780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_169
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c619c6e3cbaf84ab9c3972f37f6fe7
+      internalID: 1906636554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_170
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e092141140ea647ac85edcd8c1d2a3
+      internalID: -1344812018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_171
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1878b6250545f40bf714be00f0ecae
+      internalID: 2139661349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_172
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae4935fff0b9e438a56ea7845f6c03
+      internalID: 355015748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_173
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee39243f1bf4164794236486eb4f600
+      internalID: 1674675099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_174
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 351
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4598c7fa53748439df15ad8d330c9a
+      internalID: 1039689405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_175
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef25ea4bb7caa045bd691535ea5237e
+      internalID: 1287087966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2019fb0ee5f8df54dac0e3b646ae3dcb
+      internalID: 1228946145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_177
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2e38b891900d445814eda31de716b0
+      internalID: 878651148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_178
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c2022654c0c0438636f8d9ba3ae4a
+      internalID: 12566732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_179
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b8f0dd738254b4a851d261dccbf986
+      internalID: -1595038510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_180
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fa2a031203d00408f33d109203ee0d
+      internalID: -1320089560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_181
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba252faad6b38b4782dee6591bc0aba
+      internalID: 460478324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_182
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92299d1e2466c489867a1e2f1c5cdf
+      internalID: 1668077661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_183
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4291d1fb4de4f64f9c97c5e7e80b9d8
+      internalID: 721410821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_184
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c44ea5910ad4394f9d11e9e7d98ed63
+      internalID: -654716843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_185
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c0ff17a1249f44aea3e7e05e94062
+      internalID: -343183817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_186
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77baf4745c58c14d82947048dc4254b
+      internalID: -2081193204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_187
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45feb31eacf5db34db4949f306111b5b
+      internalID: -1863206673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_188
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ec0116ae9abb4eb5621f5ae780633
+      internalID: -1394945946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_189
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb02169e585c39f4abc0127f433a3a7a
+      internalID: 32573037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_190
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec6034d98843154a96a239a87c11d67
+      internalID: 339076351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_191
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0791ab2ff62e7e41b7fc1ccc9a79fe3
+      internalID: -517300801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_192
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb51632b51d748346af461ab0aa6d5b4
+      internalID: 2002813863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_193
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91b93a03d6e2c2479425e735645f145
+      internalID: -135394761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_194
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cff0d9e1277bfa419c12a3aa2cde512
+      internalID: -2003896474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_195
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd445da7c462a074a87b866a79c0d6c0
+      internalID: 1655888978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_196
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508fc3a9f79fe004a90dfa56bf024acc
+      internalID: 818885111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_197
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a686d302d02e894a8157a8772d13c0f
+      internalID: 1131973762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_198
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8944edd966c254eb120bd806c6e433
+      internalID: 42586991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_199
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2490e93ea5ae140a54319e2c9d9ba3
+      internalID: -1712680624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_200
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3bf341f26f3bd408a752c39847a517
+      internalID: -336648674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_201
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b40945a75027bb4984c57ebe653b59e
+      internalID: 1879124041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_202
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc270945f86966148a043917fc8cebdb
+      internalID: -1144793081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_203
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d26716e72efc44f974f0f4b99eff62
+      internalID: -2005468387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_204
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb942be46925d41ae6460b6008bab4
+      internalID: -1311604256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_205
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe57bf01e39a10549a95c6404b54cb79
+      internalID: -1898808540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_206
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9a299849488bb418c76735abfcc5b6
+      internalID: -1552428152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_207
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5857f23abf85364dae03765fb0523bb
+      internalID: 11839271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_208
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e9040a3efe1c43844e36c3b3421e1
+      internalID: -308287145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_209
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613cdb9904a62504db0aa753fc9b6c1e
+      internalID: 421539696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_210
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb7f4d51d1a01245a572d0381e448f7
+      internalID: 1870671072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_211
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 287
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d18220dc4aa3949b9e02f8acacac36
+      internalID: 1100483425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_212
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4e058597fbb664294faeb951527a7b
+      internalID: 2137610742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_213
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a468207162d725478934fe31189c02c
+      internalID: 1249414038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_214
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18613da0737e6a8419e2bd5c292b7771
+      internalID: 1592685333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_215
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f8c636c8156cd4ba64dd15d45a174d
+      internalID: 71468601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_216
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f5b138b471eb849b56c26a71ffb12a
+      internalID: 542293024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_217
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd2022cd62e4b419b86ff4eafe0b39
+      internalID: 662102692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_218
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787811c581537040bf42e66d435e39b
+      internalID: 178592699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_219
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ed75ee69913e418d33c6e47f1b1bd
+      internalID: -1456349046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_220
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec394c60635fb93429ac13a81f61bd17
+      internalID: 1362973531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_221
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d71732767fd449bd791d83458177d
+      internalID: -1746155555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_222
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27472e08bdf76a64897cd625209643b2
+      internalID: -1930735997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_223
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e5b32119f030c46a7a5514c8f35302
+      internalID: -1625993060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_224
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee36f65da511f4845849388d0d602671
+      internalID: 526407381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_225
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a12a347457fc4ab611f2646af7201
+      internalID: -1486001429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_226
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767e2e93fdc5674999d2c05c4d8da8a
+      internalID: -319006336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_227
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c1129ce3bc7b64d8caedad3df43b1a
+      internalID: 1282261706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_231
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4376891637c164ba8407dad7088ee2
+      internalID: -169768045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_232
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49dab669d1586f4baa7ed3d427a2dfb
+      internalID: -241077445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_233
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766c6f70012960545a292e07e05676d6
+      internalID: -1272166132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_234
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3660d284e367c41a250e4b78dafb4c
+      internalID: 695928589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_235
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4285fc0f9dc744aa9a7868e236fee8
+      internalID: -983775869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_236
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 223
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b98d4ce66b04546a0e390cef0442ee
+      internalID: 1055862544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_237
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa719d920e7689a4dae6a26b48e4ccb2
+      internalID: -745059697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_238
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 223
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0a1b8918f5bce4a8e18f6a3b170188
+      internalID: 1657021327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_239
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 223
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2076beeb26f4d6408f889fe7009e2f5
+      internalID: 2058781603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_310
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a71a7f09c56e31448cabb04fb794376
+      internalID: 2124858607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_311
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d4503415764d746b3b5d81420ffcbd
+      internalID: 1615234704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_312
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada1fb34369147f4fa75bbd5d3860d8e
+      internalID: 1262820695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_313
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361e9d9e359f3b04dbfb57db62b2974f
+      internalID: 194135171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_314
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d4a97cd86102046bbb4c71fd993b6f
+      internalID: 531775539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_315
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddcefae728e5d345a5dccecbe2e9568
+      internalID: -1200618842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_316
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11960fef0f53c754cafe4b99fe713a3c
+      internalID: 810760142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_317
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d190ccd3bff75e84ea031eb271e70786
+      internalID: 239354419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_338
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa72006ab05cb84bb317dd3e24700a2
+      internalID: 957402619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_339
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6790e46e8b16d479a1195dbc86dc80
+      internalID: 456360331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_340
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6566feb84d67d645a70e1fb0584b228
+      internalID: -954243753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_341
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c644075149b70f8418e7b804cff91af6
+      internalID: -661763639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_342
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d8d6758a009a1418707b3735ff420c
+      internalID: -555480362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_343
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686233bff68167345992a6674fd4b272
+      internalID: 875847724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_344
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5c1d90cb5749c46b25a91ca1360341
+      internalID: 1625119126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_345
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8fd39a0b60ad645923b00acd20fa44
+      internalID: 1398050192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_346
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca4e3a343611004fb11d9a956f0c23f
+      internalID: 1635742763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_347
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cb268b3087d3e4696a2fd8be50159b
+      internalID: -1325081207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_348
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310bad55e8a8fa6409f1678abb272e8b
+      internalID: 319258634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_349
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f506a25353131847b63267e2c183e1e
+      internalID: 641222322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_350
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cb8e0c9fb72b842877151868704287
+      internalID: 244956385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_351
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef04db7dc95654bae3e3c5ee79a3b1
+      internalID: -1436470024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_352
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8295d67fb5b8edf4e89ddf0c6b6ac5b4
+      internalID: 1760900051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_353
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873a5a3433ec5c9468e09e0a60f28478
+      internalID: -1251794541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_354
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9cddeecb548bb4cb98c29c2d816c77
+      internalID: -1229522934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmCrop_355
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf44fe2a30c53b845823553d21a07430
+      internalID: -351649060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      farmCrop_0: 17106729
+      farmCrop_1: 25871888
+      farmCrop_10: -1402530975
+      farmCrop_100: 992641458
+      farmCrop_101: 1791243496
+      farmCrop_102: -909810024
+      farmCrop_103: -726471979
+      farmCrop_104: 83520383
+      farmCrop_105: -1912811034
+      farmCrop_106: 939662222
+      farmCrop_107: 2145917227
+      farmCrop_108: -442127073
+      farmCrop_109: -78724795
+      farmCrop_11: -1965094406
+      farmCrop_110: 810530701
+      farmCrop_111: 1814886369
+      farmCrop_112: -763348048
+      farmCrop_113: 688333286
+      farmCrop_114: -1879657831
+      farmCrop_115: 917134632
+      farmCrop_116: 1977956497
+      farmCrop_117: 225874929
+      farmCrop_118: -8770911
+      farmCrop_119: 593204421
+      farmCrop_12: 1503364964
+      farmCrop_120: 907017992
+      farmCrop_121: -1122868768
+      farmCrop_122: 1591414007
+      farmCrop_123: 1980944489
+      farmCrop_124: -1730649895
+      farmCrop_125: 402108725
+      farmCrop_126: -1648233281
+      farmCrop_127: -566990368
+      farmCrop_128: 1799352181
+      farmCrop_129: -1836987084
+      farmCrop_13: -661831566
+      farmCrop_130: 256908136
+      farmCrop_131: 1371391150
+      farmCrop_132: -1383225534
+      farmCrop_133: 707317291
+      farmCrop_134: -934993569
+      farmCrop_135: 815885368
+      farmCrop_136: 1828607428
+      farmCrop_137: 543649609
+      farmCrop_138: 206416511
+      farmCrop_139: -1358275091
+      farmCrop_14: 822919551
+      farmCrop_140: -1763663750
+      farmCrop_141: -255357985
+      farmCrop_142: -1633899154
+      farmCrop_143: 83699578
+      farmCrop_144: 950196843
+      farmCrop_145: 1753551668
+      farmCrop_146: -364699032
+      farmCrop_147: 1193528690
+      farmCrop_148: 1202051300
+      farmCrop_149: -1691691561
+      farmCrop_15: 1118963902
+      farmCrop_150: -281950004
+      farmCrop_151: 1672601916
+      farmCrop_152: -763509771
+      farmCrop_153: -236827519
+      farmCrop_154: 35004728
+      farmCrop_155: -400180397
+      farmCrop_156: -1215185239
+      farmCrop_157: 1763818941
+      farmCrop_158: 179892258
+      farmCrop_159: 1149733465
+      farmCrop_16: -1569892330
+      farmCrop_160: -459709370
+      farmCrop_161: -1653870265
+      farmCrop_162: -256967294
+      farmCrop_163: 1042665945
+      farmCrop_164: -1146149635
+      farmCrop_165: 981152972
+      farmCrop_166: -1703299226
+      farmCrop_167: -1032419545
+      farmCrop_168: 1006350780
+      farmCrop_169: 1906636554
+      farmCrop_17: -116850727
+      farmCrop_170: -1344812018
+      farmCrop_171: 2139661349
+      farmCrop_172: 355015748
+      farmCrop_173: 1674675099
+      farmCrop_174: 1039689405
+      farmCrop_175: 1287087966
+      farmCrop_176: 1228946145
+      farmCrop_177: 878651148
+      farmCrop_178: 12566732
+      farmCrop_179: -1595038510
+      farmCrop_18: -1379946929
+      farmCrop_180: -1320089560
+      farmCrop_181: 460478324
+      farmCrop_182: 1668077661
+      farmCrop_183: 721410821
+      farmCrop_184: -654716843
+      farmCrop_185: -343183817
+      farmCrop_186: -2081193204
+      farmCrop_187: -1863206673
+      farmCrop_188: -1394945946
+      farmCrop_189: 32573037
+      farmCrop_19: 854965811
+      farmCrop_190: 339076351
+      farmCrop_191: -517300801
+      farmCrop_192: 2002813863
+      farmCrop_193: -135394761
+      farmCrop_194: -2003896474
+      farmCrop_195: 1655888978
+      farmCrop_196: 818885111
+      farmCrop_197: 1131973762
+      farmCrop_198: 42586991
+      farmCrop_199: -1712680624
+      farmCrop_2: 277732112
+      farmCrop_20: -1663331534
+      farmCrop_200: -336648674
+      farmCrop_201: 1879124041
+      farmCrop_202: -1144793081
+      farmCrop_203: -2005468387
+      farmCrop_204: -1311604256
+      farmCrop_205: -1898808540
+      farmCrop_206: -1552428152
+      farmCrop_207: 11839271
+      farmCrop_208: -308287145
+      farmCrop_209: 421539696
+      farmCrop_21: -279182426
+      farmCrop_210: 1870671072
+      farmCrop_211: 1100483425
+      farmCrop_212: 2137610742
+      farmCrop_213: 1249414038
+      farmCrop_214: 1592685333
+      farmCrop_215: 71468601
+      farmCrop_216: 542293024
+      farmCrop_217: 662102692
+      farmCrop_218: 178592699
+      farmCrop_219: -1456349046
+      farmCrop_22: 1409929113
+      farmCrop_220: 1362973531
+      farmCrop_221: -1746155555
+      farmCrop_222: -1930735997
+      farmCrop_223: -1625993060
+      farmCrop_224: 526407381
+      farmCrop_225: -1486001429
+      farmCrop_226: -319006336
+      farmCrop_227: 1282261706
+      farmCrop_228: -394005104
+      farmCrop_229: -2110706241
+      farmCrop_23: 12390401
+      farmCrop_230: 1508122272
+      farmCrop_231: -169768045
+      farmCrop_232: -241077445
+      farmCrop_233: -1272166132
+      farmCrop_234: 695928589
+      farmCrop_235: -983775869
+      farmCrop_236: 1055862544
+      farmCrop_237: -745059697
+      farmCrop_238: 1657021327
+      farmCrop_239: 2058781603
+      farmCrop_24: 1021314668
+      farmCrop_240: -55024795
+      farmCrop_241: -441601663
+      farmCrop_242: -1005798807
+      farmCrop_243: -1894983386
+      farmCrop_244: 794869527
+      farmCrop_245: 491695830
+      farmCrop_246: -1291784306
+      farmCrop_247: 525893001
+      farmCrop_248: 1946574163
+      farmCrop_249: -1960759306
+      farmCrop_25: -555153994
+      farmCrop_250: -1700361171
+      farmCrop_251: 37952658
+      farmCrop_252: 126855552
+      farmCrop_253: 1836386247
+      farmCrop_254: -1917177588
+      farmCrop_255: 761879114
+      farmCrop_256: 1134165283
+      farmCrop_257: 2013607672
+      farmCrop_258: -449116421
+      farmCrop_259: 850292600
+      farmCrop_26: -55182918
+      farmCrop_260: 1630897000
+      farmCrop_261: 1247419562
+      farmCrop_262: 724692009
+      farmCrop_263: -839949650
+      farmCrop_264: 1333210612
+      farmCrop_265: -535057776
+      farmCrop_266: -1022221960
+      farmCrop_267: -1764100387
+      farmCrop_268: 357929769
+      farmCrop_269: 963482460
+      farmCrop_27: 1208850077
+      farmCrop_270: -2100226260
+      farmCrop_271: -693773190
+      farmCrop_272: 1054539300
+      farmCrop_273: -675163560
+      farmCrop_274: 1199986898
+      farmCrop_275: -1189542789
+      farmCrop_276: -1736198813
+      farmCrop_277: -661651655
+      farmCrop_278: -215241931
+      farmCrop_279: -672138747
+      farmCrop_28: -1740158270
+      farmCrop_280: 2050719097
+      farmCrop_281: -1761476517
+      farmCrop_282: 455820572
+      farmCrop_283: 1828518795
+      farmCrop_284: -1646598768
+      farmCrop_285: 545333714
+      farmCrop_286: -1742692539
+      farmCrop_287: 743500142
+      farmCrop_288: 1729686187
+      farmCrop_289: -329440673
+      farmCrop_29: -501966120
+      farmCrop_290: 1535422957
+      farmCrop_291: -1610656714
+      farmCrop_292: 870875229
+      farmCrop_293: 272532294
+      farmCrop_294: -1731951525
+      farmCrop_295: -2077504090
+      farmCrop_296: 1941471837
+      farmCrop_297: 618216408
+      farmCrop_298: 703718170
+      farmCrop_299: -1157363716
+      farmCrop_3: -1286939916
+      farmCrop_30: -616823886
+      farmCrop_300: -836853125
+      farmCrop_301: 1245828007
+      farmCrop_302: 677361229
+      farmCrop_303: 1523386275
+      farmCrop_304: -703670600
+      farmCrop_305: -1188857862
+      farmCrop_306: 235563940
+      farmCrop_307: 1865991907
+      farmCrop_308: -192551266
+      farmCrop_309: -71603801
+      farmCrop_31: 186152616
+      farmCrop_310: 2124858607
+      farmCrop_311: 1615234704
+      farmCrop_312: 1262820695
+      farmCrop_313: 194135171
+      farmCrop_314: 531775539
+      farmCrop_315: -1200618842
+      farmCrop_316: 810760142
+      farmCrop_317: 239354419
+      farmCrop_318: 1646013235
+      farmCrop_319: -1741167527
+      farmCrop_32: 1049592467
+      farmCrop_320: 1272303037
+      farmCrop_321: -744201199
+      farmCrop_322: 587479710
+      farmCrop_323: 1637461202
+      farmCrop_324: -600468476
+      farmCrop_325: -507367389
+      farmCrop_326: -2063591433
+      farmCrop_327: -1542993912
+      farmCrop_328: -478064437
+      farmCrop_329: 2001565525
+      farmCrop_33: -605143464
+      farmCrop_330: 1809593182
+      farmCrop_331: 1992076640
+      farmCrop_332: 366532425
+      farmCrop_333: 1956219485
+      farmCrop_334: -48519323
+      farmCrop_335: 1351208152
+      farmCrop_336: -1958394599
+      farmCrop_337: 345066560
+      farmCrop_338: 957402619
+      farmCrop_339: 456360331
+      farmCrop_34: 1155575301
+      farmCrop_340: -954243753
+      farmCrop_341: -661763639
+      farmCrop_342: -555480362
+      farmCrop_343: 875847724
+      farmCrop_344: 1625119126
+      farmCrop_345: 1398050192
+      farmCrop_346: 1635742763
+      farmCrop_347: -1325081207
+      farmCrop_348: 319258634
+      farmCrop_349: 641222322
+      farmCrop_35: -1198541594
+      farmCrop_350: 244956385
+      farmCrop_351: -1436470024
+      farmCrop_352: 1760900051
+      farmCrop_353: -1251794541
+      farmCrop_354: -1229522934
+      farmCrop_355: -351649060
+      farmCrop_356: 1386745359
+      farmCrop_36: 1015895865
+      farmCrop_37: 1963212261
+      farmCrop_38: 1397411700
+      farmCrop_39: -923220057
+      farmCrop_4: -1309794138
+      farmCrop_40: -1642767475
+      farmCrop_41: -643851990
+      farmCrop_42: 559852148
+      farmCrop_43: 1853341927
+      farmCrop_44: -284961436
+      farmCrop_45: -974427611
+      farmCrop_46: -464419184
+      farmCrop_47: 1989255582
+      farmCrop_48: 975244364
+      farmCrop_49: 887455375
+      farmCrop_5: 1139107128
+      farmCrop_50: 1654610247
+      farmCrop_51: 291094017
+      farmCrop_52: -645562330
+      farmCrop_53: -1230492866
+      farmCrop_54: -1481935444
+      farmCrop_55: 1968589273
+      farmCrop_56: -1842769717
+      farmCrop_57: -2047095326
+      farmCrop_58: 62437667
+      farmCrop_59: 2075641602
+      farmCrop_6: -1548082861
+      farmCrop_60: 1498985863
+      farmCrop_61: 458419495
+      farmCrop_62: 1748649265
+      farmCrop_63: -1023343430
+      farmCrop_64: 1641103062
+      farmCrop_65: -1781506277
+      farmCrop_66: -1608601609
+      farmCrop_67: -1385079880
+      farmCrop_68: 1859285868
+      farmCrop_69: 1341758491
+      farmCrop_7: -1691100413
+      farmCrop_70: 1686185129
+      farmCrop_71: -980621959
+      farmCrop_72: 1708053893
+      farmCrop_73: 1346056196
+      farmCrop_74: 662895524
+      farmCrop_75: -1670067814
+      farmCrop_76: -1845614781
+      farmCrop_77: -950282937
+      farmCrop_78: 1737590473
+      farmCrop_79: 2104241566
+      farmCrop_8: 1460422692
+      farmCrop_80: -1804306851
+      farmCrop_81: 1350021701
+      farmCrop_82: -1491737373
+      farmCrop_83: -2014433092
+      farmCrop_84: -852955272
+      farmCrop_85: 2001538164
+      farmCrop_86: -2020177017
+      farmCrop_87: 1826272910
+      farmCrop_88: 675237953
+      farmCrop_89: 1687494759
+      farmCrop_9: -125204929
+      farmCrop_90: -1625171724
+      farmCrop_91: -2047227973
+      farmCrop_92: 1276307680
+      farmCrop_93: -769204932
+      farmCrop_94: 1503599814
+      farmCrop_95: 857328448
+      farmCrop_96: -1012508065
+      farmCrop_97: 1695364828
+      farmCrop_98: 1336450754
+      farmCrop_99: 768609530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

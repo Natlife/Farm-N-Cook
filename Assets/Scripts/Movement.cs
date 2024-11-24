@@ -7,6 +7,7 @@ using UnityEngine.UIElements;
 public class Movement : MonoBehaviour
 {
     public float speed;
+    public Vector3 goal;
     public Animator anim;
 
 
@@ -22,17 +23,22 @@ public class Movement : MonoBehaviour
     {
         float horizontal = Input.GetAxisRaw("Horizontal");
         float vertical = Input.GetAxisRaw("Vertical");
-        Vector3 goal= new Vector3 (horizontal, vertical);
+        goal= new Vector3 (horizontal, vertical);
         animatorMovement(goal);
-        transform.position += goal*speed*Time.deltaTime;
+        
+    }
+    //FixedUpdate function:
+    //solve the problem when player collider reach another collider in the world map
+    private void FixedUpdate()
+    {
+        transform.position += goal * speed * Time.deltaTime;
     }
 
-
     //Animator Movement function:
-        //check if the anim have already set
-        //check if the player isMoving or not
-        //isMoving==true: set the input for horizontal and vertical in anim to decide the way player go
-        //isMoving==falsel: stay in the Idle 
+    //check if the anim have already set
+    //check if the player isMoving or not
+    //isMoving==true: set the input for horizontal and vertical in anim to decide the way player go
+    //isMoving==falsel: stay in the Idle 
     void animatorMovement(Vector3 goal)
     {
         if(anim != null) {
