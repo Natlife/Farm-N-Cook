@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Inventory_UI : MonoBehaviour
@@ -14,6 +15,7 @@ public class Inventory_UI : MonoBehaviour
             toggleInventory();
         }
     }
+
     public void toggleInventory()
     {
         if (inventoryPanel.activeSelf)
@@ -27,7 +29,7 @@ public class Inventory_UI : MonoBehaviour
         }
     }
 
-    //SetUp function:
+    //ReFresh function:
     //Check for the change when the InventoryUI active
         //if have item in slot, call the setItem method with slotList element
         //else: call setEmpty method to set default slot icon and text  
@@ -46,6 +48,20 @@ public class Inventory_UI : MonoBehaviour
                     slotList[i].setEmpty();
                 }
             }
+        }
+    }
+    public void Remove(int slotID)
+    {
+        Collectable itemNeedToDrop= GameManager.instance.itemManager.getItemByType(player.inventory.slotList[slotID].itemType);  //call the get item type function in the itemManager
+        if(itemNeedToDrop != null)
+        {
+            player.dropItem(itemNeedToDrop);
+            player.inventory.Remove(slotID);
+            setUp();
+        }
+        else
+        {
+            Debug.Log("sai roi dm");
         }
     }
 } 

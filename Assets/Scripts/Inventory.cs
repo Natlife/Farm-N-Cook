@@ -37,6 +37,19 @@ public class Inventory
             this.icon= item.icon;
             count++;
         }
+        public void removeItem()
+        {
+            
+            if (count > 0)
+            {
+                count--;
+                if (count == 0)
+                {
+                    this.itemType = CollectableType.NONE;
+                    this.icon = null;
+                }
+            }
+        }
     }
     public List<slot> slotList=new List<slot>();//create the way to store the information
 
@@ -73,6 +86,10 @@ public class Inventory
                 return;
             }
         }
+    }
+    public void Remove(int index)
+    {
+        slotList[index].removeItem();
     }
 
 }
